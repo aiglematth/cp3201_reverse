@@ -2,11 +2,11 @@
 
 ## Abstract
 
-In my latest blog post, I invite you to join me on an intriguing journey into the core of the CP3501, the control unit of a wideband microwave receiver. Thanks to the generosity of my chief, I gained access to the CP3501's ROM, allowing me to embark on a comprehensive journey of reverse engineering. Together, we will unravel the complexities of this cutting-edge equipment, sharing the discoveries I've made, insights into its intricate software architecture, and a wealth of technical details that have surfaced during my exploration. Whether you're an experienced engineer or simply curious about microwave receiver systems, this blog post could interests you.
+In my latest blog post, I invite you to join me on an intriguing journey into the core of the CP3501, the control unit of an old wideband microwave receiver. Thanks to the generosity of my chief, I gained access to the CP3501's ROM, allowing me to embark on a comprehensive journey of reverse engineering. Together, we will unravel the complexities of this cutting-edge equipment, sharing the discoveries I've made, insights into its intricate software architecture, and a wealth of technical details that have surfaced during my exploration. Whether you're an experienced engineer or simply curious about microwave receiver systems, this blog post could interests you.
 
 ## Thanks
 
-I'd like to express my gratitude to Bertrand Velle, my supervisor, for guiding me through this exploration and providing me with the ROM.
+I'd like to express my gratitude to B.V. , my supervisor, for guiding me through this exploration and providing me with the ROM.
 
 ## Content
 
@@ -50,7 +50,7 @@ I'd like to express my gratitude to Bertrand Velle, my supervisor, for guiding m
 
 ## Introduction
 
-In this blog post, we'll delve into the CP3501 engine, which serves as a control unit for a wideband microwave receiver called the SMR3522B. If you're interested in getting a hardware overview of these two pieces of equipment, you can check out these informative blog posts:
+In this blog post, we'll delve into the CP3501 engine, which serves as a control unit for a wideband microwave receiver called the SMR3522B. This equipment has been in existence since the 1990s. If you're interested in getting a hardware overview of these two pieces of equipment, you can check out these informative blog posts:
 
 - For details on the CP3501: http://rxcontrol.free.fr/Receivers/MACOM/CP3501/
 - To learn more about the SMR3522: http://rxcontrol.free.fr/Receivers/MACOM/SMR3522/
